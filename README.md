@@ -3,17 +3,18 @@
 A Ceres Firmware v1.8.0 foi desenvolvida por vichShir em 2019 em um projeto de TCC em eletrônica pela ETESP para suprir os requisitos de funcionamento da Ceres Greenhouse.
 A Ceres Greenhouse é uma estufa automatizada com propósitos de expandir para conectividade remota.
 
-A Ceres Firmaware está sob licença da GNU General Public License v3.0.
+A Ceres Firmware está sob licença da GNU General Public License v3.0.
 
 ## Infomações do Projeto
 <p>Para mais detalhes do projeto, a monografia entregue à banca examinadora pode ser verificada <a href="https://drive.google.com/file/d/1BrXHpduY5U_aX7sag3ThyosPkBuHM6GF/view?usp=sharing" target="_blank">Aqui</a></p>
 
-## Créditos aos demais membros participantes:
+## Colaboradores do TCC:
 	• ARTHUR RIO VERDE MELO ROSIN
 	• CESAR EDUARDO BOTONI LIMA
 	• ELDEN RUFINO DOS SANTOS
 	• HENRIQUE MARUITI
 	• LUAN ANDRÉ SBARDELLINI
+	• Victor Yukio Shirasuna
 
 ## Documentação Interna
 ### Pinout do Circuito com Arduino
